@@ -1,4 +1,4 @@
-# Тестовое задание Сrowd detection
+# Сrowd detection
 ## Описание проекта
 ### Fine-tuning
 Для задачи детекции была выбрана модель YOLO11. Также данная модель была дообучена на датасете [CrowdHuman-with-YoloLabels](https://www.kaggle.com/datasets/haminhtien99/crowdhuman-with-yololabels).  
